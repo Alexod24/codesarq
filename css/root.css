@@ -1,0 +1,27 @@
+:root {
+    /* Colores principales */
+    --color-primary: #ec0808; /* Verde (puedes usarlo para botones, encabezados, etc.) */
+    --color-secondary: #6f6f6f; /* Naranja (para elementos de acento) */
+  
+    /* Colores neutros */
+    --color-bg-light: #FFFFFF; /* Fondo claro */
+    --color-bg-dark: #121212; /* Fondo oscuro */
+    --color-text-light: #F5F5F5; /* Texto claro */
+    --color-text-dark: #212121; /* Texto oscuro */
+  
+    /* Colores de acento */
+    --color-accent-1: #FFC107; /* Amarillo brillante */
+    --color-accent-2: #03A9F4; /* Azul celeste */
+    --color-accent-3: #E91E63; /* Rosa fuerte */
+  
+    /* Colores de estados */
+    --color-success: #4CAF50; /* Verde para éxito */
+    --color-error: #F44336; /* Rojo para errores */
+    --color-warning: #FF9800; /* Naranja para advertencias */
+    --color-info: #2196F3; /* Azul para información */
+  
+    /* Colores complementarios */
+    --color-shadow: rgba(0, 0, 0, 0.1); /* Sombra suave */
+    --color-border: #E0E0E0; /* Bordes neutros */
+  }
+  
